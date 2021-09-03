@@ -12,18 +12,18 @@ List of commands:
 
 bz:
 
-  Allows ofline viewing of bazaar
+  Allows offline viewing of bazaar
   After typing which item you want to search, you will be given the Buy and Sell price of that item
-  If you get an error, that means that item dosen't exist.  Check your spelling and try again
+  If you get an error, that means that the item doesn't exist.  Check your spelling and try again
   
 ah:
 
-  Allows offline viewing of auction house
-  Fistly, you will be asked if you want BIN (Buy it now), regular auction, or both.  Type "bin", "auction", or "both"
-  Secondly, you will be asked wat item you want to search.  SPELLING AND CAPITILIZATION MATTERS!
-    Most items start with a capital leter, and have capital leters in most major words.  example: Aspect of the End
+  Allows offline viewing of the auction house
+  Firstly, you will be asked if you want BIN (Buy it now), regular auction, or both.  Type "bin", "auction", or "both"
+  Secondly, you will be asked what item you want to search for.  SPELLING AND CAPITALIZATION MATTER!
+    Most items start with a capital letter and have capital letters in most major words.  example: Aspect of the End
   Thirdly, you will be asked how you want the data sorted.  Be sure to type the number that correlates with the option you want.
-  Fourthly, you will be asked how many auctions you want displayed.  You can type a number, or type a, which shows all
+  Fourthly, you will be asked how many auctions you want to be displayed.  You can type a number, or type a, which shows all
   Finally, those items will be found.  There are usually about 70 thousand auctions, so this process takes about 15 seconds.  Please be patient.
   
 ahuuid:
@@ -32,4 +32,4 @@ ahuuid:
   
 flip:
 
-  Flipping calcuations are not a current feature.  Hopefully, ending soon flipping, bazaar flipping, and other forms of auction flipping will be added in the near future.
+  Flipping calculations are not a current feature.  Hopefully, ending soon flipping, bazaar flipping, and other forms of auction flipping will be added in the near future.
