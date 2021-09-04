@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Hypixel-Skyblock-Flipping-Calculator
+This helpful tool for viewing and calculating Hypixel Skyblock numbers while offline.
 
-You can use the [editor on GitHub](https://github.com/stookalacka/Hypixel-Skyblock-Flipping-Calculator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This calculator was originally created at:
+https://replit.com/@Stookalacka/Hypixel-Skyblock-Flipping-Calculator
+go there for the original :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+How it works:
+At first, you will be asked "What would you like to do?; Type 'Help' for list of commands"
 
-### Markdown
+List of commands:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+bz:
 
-```markdown
-Syntax highlighted code block
+  Allows offline viewing of bazaar
+  After typing which item you want to search, you will be given the Buy and Sell price of that item
+  If you get an error, that means that the item doesn't exist.  Check your spelling and try again
+  
+ah:
 
-# Header 1
-## Header 2
-### Header 3
+  Allows offline viewing of the auction house
+  Firstly, you will be asked if you want BIN (Buy it now), regular auction, or both.  Type "bin", "auction", or "both"
+  Secondly, you will be asked what item you want to search for.  SPELLING AND CAPITALIZATION MATTER!
+    Most items start with a capital letter and have capital letters in most major words.  example: Aspect of the End
+  Thirdly, you will be asked how you want the data sorted.  Be sure to type the number that correlates with the option you want.
+  Fourthly, you will be asked how many auctions you want to be displayed.  You can type a number, or type a, which shows all
+  Finally, those items will be found.  There are usually about 70 thousand auctions, so this process takes about 15 seconds.  Please be patient.
+  
+ahuuid:
 
-- Bulleted
-- List
+  Allows you to type/paste the UUID of an auction, and the data of that auction is given.
+  
+flip:
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/stookalacka/Hypixel-Skyblock-Flipping-Calculator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  Flipping calculations are not a current feature.  Hopefully, ending soon flipping, bazaar flipping, and other forms of auction flipping will be added in the near future.
